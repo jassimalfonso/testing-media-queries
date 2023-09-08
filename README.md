@@ -1,2 +1,2 @@
 # testing-media-queries
-Testing media queiries
+Testing media queries
