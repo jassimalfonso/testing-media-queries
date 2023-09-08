@@ -22,3 +22,10 @@ body {
 		background-color: blueviolet;
 	}
 }
+
+@media (min-width: 1200px) {
+	body {
+		color: white;
+		background-color: black;
+	}
+}
